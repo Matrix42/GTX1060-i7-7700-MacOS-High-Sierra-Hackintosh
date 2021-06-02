@@ -1,3 +1,5 @@
+## 系统及其他驱动
+
 MacOS High Sierra Hackintosh
 
 引导：CLOVER
@@ -7,7 +9,7 @@ MacOS High Sierra Hackintosh
 > 需要macOS 10.13.6
 
 
-基本硬件信息
+## 基本硬件信息
 
 处理器	英特尔 Core i7-7700 @ 3.60GHz 四核
 
