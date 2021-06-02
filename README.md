@@ -2,6 +2,9 @@ MacOS High Sierra Hackintosh
 
 引导：CLOVER
 
+显卡驱动：[WebDriver V387.10.10.10.40](http://www.pc6.com/mac/480813.html)
+
+> 需要macOS 10.13.6
 
 
 基本硬件信息
